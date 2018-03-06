@@ -18,8 +18,7 @@ GifTastic is a web application that uses the GIPHY API to make a dynamic web pag
 
 * HTML
 * Javascript
-* Css
-* Bootstrap
+* Css Framework Bootstrap
 * jQuery
 
 
